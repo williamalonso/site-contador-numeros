@@ -3,7 +3,7 @@
     </h1>
 
 <div align="center">
-  <img src="" alt"Contador de números" title="Contador de números" width="600" />
+  <img src="https://github.com/williamalonso/site-contador-numeros/blob/master/_img/home.png" alt"Contador de números" title="Contador de números" width="600" />
   
 
 ---
@@ -41,7 +41,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🙅 Instalações e usos
 
-Para acessar o site [clique aqui](https://site-verificador-idade.vercel.app/)
+Para acessar o site [clique aqui](https://site-contador-numeros.vercel.app/)
 
 Caso queira, clone ou faça o downlod desse repositório:
 
